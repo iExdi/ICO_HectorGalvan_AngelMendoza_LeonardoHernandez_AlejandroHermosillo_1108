@@ -1,4 +1,4 @@
-Introduccion a la Ingernieria 
+Introduccion a la Ingenieria
 -Hermosillo Alejandro
 -Mendoza Angel
 -Hernández Leonardo
