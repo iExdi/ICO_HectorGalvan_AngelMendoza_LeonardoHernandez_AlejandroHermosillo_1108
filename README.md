@@ -1,2 +1,10 @@
-# ICO_HectorGalvan_AngelMendoza_LeonardoHernandez_AlejandroHermosillo_1108
+Introduccion a la Ingernieria 
+-Hermosillo Alejandro
+-Mendoza Angel
+-Hernández Leonardo
+-Galván Hector
+
+
+Grupo (1108)
+
 Proyecto Final de ICO 
