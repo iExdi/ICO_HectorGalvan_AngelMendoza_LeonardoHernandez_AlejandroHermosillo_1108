@@ -1,9 +1,8 @@
 #include<stdio.h>
 
-float suma(float x, float y)
+float division(float x, float y)
 {
 	float resultado;
-	resultado = x + y;
+	resultado = x / y;
 	return resultado;
 }
-
