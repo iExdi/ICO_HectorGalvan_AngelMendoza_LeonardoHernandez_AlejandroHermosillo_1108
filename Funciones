@@ -1,0 +1,26 @@
+//Funciones para la realizacion de operaciones
+
+//Funcion de comparacion
+
+float comparacion(float x, float y)
+{
+	if (x == y)
+	{
+		
+		printf("Los numeros son iguales");
+	}
+	else
+	{
+		printf("Los numeros no son iguales")
+	}
+	return 0;
+}
+
+//Funcion de multiplicacion
+
+float multiplicacion(float x, float y)
+{
+	float resultado;
+	resultado = x * y;
+	return resultado;
+}
