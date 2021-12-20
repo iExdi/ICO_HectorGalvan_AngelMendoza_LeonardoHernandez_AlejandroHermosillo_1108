@@ -1,0 +1,7 @@
+﻿  FuncionSuma.cpp
+  ProyectoSuma.cpp
+C:\Users\52558\source\repos\ProyectoSuma\ProyectoSuma\ProyectoSuma.cpp(13,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\52558\source\repos\ProyectoSuma\ProyectoSuma\ProyectoSuma.cpp(13,17): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\52558\source\repos\ProyectoSuma\ProyectoSuma\ProyectoSuma.cpp(13,16): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  ProyectoSuma.vcxproj -> C:\Users\52558\source\repos\ProyectoSuma\Debug\ProyectoSuma.exe
