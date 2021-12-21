@@ -6,7 +6,7 @@
 #include "LibreriaDivision/LibreriaDivision/Division.h"
 #include "ProyectoSuma/Funciones.h"
 
-
+//se usaron las librerias  creadas
 
 int main()
 {
